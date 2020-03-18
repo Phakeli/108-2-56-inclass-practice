@@ -4,3 +4,15 @@ author: "Phakeli"
 date: "2020年3月18日"
 output: html_document
 ---
+
+```{r}
+library(googlesheets4)
+library(dplyr)
+library(lubridate)
+```
+
+```{r}
+3->a
+b=2
+```
+
